@@ -1,0 +1,61 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#aboutmeimage {
+    border-width: 5px;
+    border-style: solid; 
+    border-color: thistle;
+}
+
+.container ul {
+    list-style-type: none;
+    
+}
+
+.container ul li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.col {
+    align-self: flex-start;
+    
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.btn {
+    padding-top: 16px;
+}
+
+.jumbotron {
+    border-width: 10px;
+    border-style: solid; 
+    border-color: thistle;
+    widows: 100px;
+}
+
+.jumbotron2 {
+    widows: 100px;
+}
+
+#main {
+    border-width: 10px;
+    border-style: solid; 
+    border-color: thistle;
+    widows: 100px;
+}
+
+.card-body {
+    border-width: 1px;
+    border-style: solid; 
+    border-color: thistle;
+}
